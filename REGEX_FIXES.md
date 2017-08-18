@@ -20,7 +20,8 @@ file from fragments. Here is the list of the expressions used:
 \{(\\"\{[AOUoua]\})\}
 ````
 
-- Escape big letters in {}:
+- Escape big letters in {}: !!!THIS NEEDS AN UPDATE TO EXCLUDE LETTERS AFTER
+QUESTIONMARK!!!
 ````
 \{([A-Z])\}
 ````
