@@ -10,8 +10,8 @@ Mendeley.
 - For proper APA citation, only capitalise the first word of the title/heading and of any subtitle/subheading as well as proper               nouns and certain other types of words. Use lowercase for everything else. (See also http://blog.apastyle.org/apastyle/2012/03/title-case-and-sentence-case-capitalization-in-apa-style.html and http://blog.apastyle.org/apastyle/2012/02/do-i-capitalize-this-word.html)
 - For proper APA citation in LaTeX, **header.tex** has to include the following commands:
 
-  - *\RequirePackage{bibentry} *
-  - *\makeatletter\let\saved@bibitem\@bibitem\makeatother *
+  - *\RequirePackage{bibentry}*
+  - *\makeatletter\let\saved@bibitem\@bibitem\makeatother*
 
   as well as:
 
