@@ -31,8 +31,4 @@ Mendeley.
   - Check the box **Generate keys before saving (for entries without a key)**
 
   This will create the keys automatically and in compliance with the other entries in ``literature.bib``.
-<<<<<<< HEAD
-  
-=======
 
->>>>>>> master
