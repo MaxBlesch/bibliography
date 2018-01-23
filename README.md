@@ -23,3 +23,12 @@ Mendeley.
 
   - *\bibliographystyle{apacite}*
   - *\bibliography {../../../ submodules/bibliography/literature}*
+
+- If you want to insert a new entry in ``literature.bib`` via JabRef, please do not insert the BibtexKey manually but instead follow the following steps:
+
+  - Go to **Options** -> **Preferences** -> **BibTeX key generator**
+  - Insert **[auth].[year]** as the default pattern
+  - Check the box **Generate keys before saving (for entries without a key)**
+
+  This will create the keys automatically and in compliance with the other entries in ``literature.bib``.
+  
