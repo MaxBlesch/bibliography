@@ -3,3 +3,4 @@
 import subprocess
 
 subprocess.check_call(['git', 'commit', '-a', '-m"edits"'])
+subprocess.check_call(['git', 'push'])
