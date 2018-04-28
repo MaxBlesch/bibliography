@@ -2,4 +2,4 @@
 """This script updates the local repository."""
 import subprocess
 
-subprocess.check_call(['git', 'pull', '-df'])
+subprocess.check_call(['git', 'pull'])
