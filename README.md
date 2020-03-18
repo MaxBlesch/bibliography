@@ -4,7 +4,6 @@ This repository hosts the central bibliography for numerous research projects.
 
 The bibliography file is called ``literature.bib``. 
 
-- ``annotated_bibliography`` We maintain an annotated bibliography of useful resources for future reference.
 - For proper APA citation, only capitalise the first word of the title/heading and of any subtitle/subheading as well as proper nouns and certain other types of words. Use lowercase for everything else. (See also http://blog.apastyle.org/apastyle/2012/03/title-case-and-sentence-case-capitalization-in-apa-style.html and http://blog.apastyle.org/apastyle/2012/02/do-i-capitalize-this-word.html)
 - The necessary commands for proper APA citation in LaTeX seem to differ between operating systems. **For Windows and Ubuntu users**, **header.tex** has to include the following commands:
   - *\usepackage{apacite}* 
@@ -22,7 +21,7 @@ The bibliography file is called ``literature.bib``.
 - The **main.tex** has to include the following commands (regardless of operating system):
 
   - *\bibliographystyle{apacite}*
-  - *\bibliography {../../../ submodules/bibliography/literature}*
+  - *\bibliography {../../../ submodules/bibliography/literature}* or similar, depending on the location of the submodule directory relative to your **main.tex** file.
 
 - If you want to insert a new entry in ``literature.bib`` via JabRef, please do not insert the BibtexKey manually but instead follow the following steps:
 
