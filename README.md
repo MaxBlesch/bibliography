@@ -4,7 +4,7 @@ This repository hosts the central bibliography for numerous research projects.
 
 The bibliography file is called `literature.bib`. 
 
-- For proper APA citation, only capitalise the first word of the title/heading and of any subtitle/subheading as well as proper nouns and certain other types of words. Use lowercase for everything else. 
+- For proper APA citation, only capitalise the first word of the title/heading and of any subtitle/subheading as well as proper nouns and certain other types of words. Use lowercase for everything else (for more details see section **Sentence Case** in the first blog post below).
 - See also:
   - [APA Style 6th Edition Blog: Title Case and Sentence Case Capitalization in APA Style](https://blog.apastyle.org/apastyle/2012/03/title-case-and-sentence-case-capitalization-in-apa-style.html)
   - [APA Style 6th Edition Blog: Do I Capitalize This Word?](https://blog.apastyle.org/apastyle/2012/02/do-i-capitalize-this-word.html)
