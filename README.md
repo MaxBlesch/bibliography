@@ -44,3 +44,9 @@ The necessary commands for proper APA citation in LaTeX seem to differ between o
 
 This will create the keys automatically and in compliance with the other entries in `literature.bib`.
 
+
+## Notes on Adding References
+
+- For areas outside the U.S., city and country names suffice for address specifications. Counties or federal states do not need to be added.
+- Edition numbers do not have to be added.
+- Volume numbers do not have to be added on books.
