@@ -2,7 +2,7 @@
 
 This repository hosts the central bibliography for numerous research projects.
 
-The bibliography file is called `literature.bib`. 
+The bibliography file is called `literature.bib`.
 
 - For proper APA citation, only capitalise the first word of the title/heading and of any subtitle/subheading as well as proper nouns and certain other types of words. Use lowercase for everything else (for more details see section **Sentence Case** in the first blog post below).
 - See also:
@@ -32,7 +32,7 @@ The necessary commands for proper APA citation in LaTeX seem to differ between o
 ## Necessary Commands for `main.tex` (All Systems)
 
   - `\bibliographystyle{apacite}`
-  - `\bibliography {../../../submodules/bibliography/literature}` or similar, depending on the location of the submodule directory relative to your `main.tex` file.
+  - `\bibliography {../../submodules/bibliography/literature}` or similar, depending on the location of the submodule directory relative to your `main.tex` file.
 
 ## Notes for JabRef Users
 
